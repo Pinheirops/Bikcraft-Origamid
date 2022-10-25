@@ -246,6 +246,7 @@ footer {
     align-self: center;
     font-size: 0.8rem;
     margin-left: 5px;
+    justify-content: center;
   }
 
   .descricao-geral {
@@ -272,8 +273,6 @@ footer {
   .sobre a {
     align-self: start;
     padding: 13px 30px;
-    
-
   }
 
   .sobre p {
