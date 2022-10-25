@@ -17,5 +17,8 @@
 
 <ul>
   <li><a href="https://pinheirops.github.io/Origamid-Bikecraft/Carros&Bicicletas">Carros E Bicicletas</a></li>
-
+  <li><a href="pinheirops.github.io/Origamid-Bikecraft/Cinema">Cinema</a></li>
+  <li><a href="pinheirops.github.io/Origamid-Bikecraft/Posicionamento1 e Semantica">Posiscionamento e Semântica</a></li>
+  <li><a href="pinheirops.github.io/Origamid-Bikecraft/Posicionamento1">Posicionamento</a></li>
+  <li><a href="pinheirops.github.io/Origamid-Bikecraft/Responsividade">Responsividade</a></li>
 </ul>
