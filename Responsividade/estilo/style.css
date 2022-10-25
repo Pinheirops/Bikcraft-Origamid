@@ -271,9 +271,8 @@ footer {
 @media (max-width: 600px) {
   .sobre a {
     align-self: start;
-    padding: 15px 60px;
+    padding: 10px 20px;
     text-align: center;
-    text-overflow: ellipsis;
   }
 
   .sobre p {
