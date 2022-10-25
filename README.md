@@ -16,4 +16,6 @@
 <p>Para acessar os exercícios clique aqui:</p>
 
 <ul>
-  <li><a href="/Carros&Bicicletas/index.html">Carros E Bicicletas</a>
+  <li><a href="https://pinheirops.github.io/Origamid-Bikecraft/Carros&Bicicletas">Carros E Bicicletas</a></li>
+
+</ul>
