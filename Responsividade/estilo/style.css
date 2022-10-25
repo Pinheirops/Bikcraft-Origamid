@@ -228,7 +228,7 @@ footer {
     order: 2;
   }
 
-  img{
+  img {
     object-fit: cover;
   }
 
@@ -241,6 +241,7 @@ footer {
   }
   .sobre a {
     align-self: center;
+    padding: 10px 20px;
   }
 
   .descricao-geral {
@@ -263,7 +264,7 @@ footer {
   }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 500px) {
   .sobre a {
     align-self: start;
   }
