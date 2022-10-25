@@ -12,3 +12,8 @@
 </ul>
 
 <hr>
+
+<p>Para acessar os exercícios clique aqui:</p>
+
+<ul>
+  <li><a href="/Carros&Bicicletas/index.html">Carros E Bicicletas</a>
