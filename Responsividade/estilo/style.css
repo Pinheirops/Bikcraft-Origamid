@@ -234,15 +234,19 @@ footer {
 
   #sobre-bikecraft {
     align-self: center;
+    margin-top: 10px;
+    margin-left: 5px;
   }
 
   .sobre p {
     text-align: center;
+    margin-left: 5px;
   }
   .sobre a {
     align-self: center;
     padding: 10px 20px;
     font-size: 0.8rem;
+    margin-left: 5px;
   }
 
   .descricao-geral {
@@ -268,6 +272,7 @@ footer {
 @media (max-width: 500px) {
   .sobre a {
     align-self: start;
+    padding: 10px 30px;
   }
 
   .sobre p {
