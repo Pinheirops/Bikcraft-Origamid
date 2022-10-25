@@ -1,11 +1,14 @@
 # Origamid-Bikecraft
 
 <p>Exercícios feitos no curso Origamid - Bikecraft</p>
-_________________________________________________________
+
+<hr>
+
 <ul> 
 <li> Html </li>
+<li> Css  </li>
+<li> Semântica </li>
+<li> Responsividade </li>
 </ul>
-<p> • Html </p>
-<p> • Css </p>
-<p> • Responsividade </p>
-_________________________________________________________
+
+<hr>
