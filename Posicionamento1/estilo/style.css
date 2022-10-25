@@ -1,0 +1,138 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f7f7 ;
+  margin: 0px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.titulo {
+  display: flex;
+  margin: 50px auto;
+  min-width: 15%;
+}
+
+.botao1 {
+  display: flex;
+  gap: 40px;
+  justify-content: center;
+  margin-top: 50px;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.botao1 a {
+  background-color: white;
+  padding: 15px 30px;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 5px;
+  color: black;
+  font-weight: bold;
+}
+
+.linha1 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 70px auto 0px auto;
+  gap: 0px 40px;
+  width: 1000px;
+  background-color: white;
+  grid-template-rows: 60px 70px 100px 1fr;
+}
+
+.linha1 h2 {
+  margin: 0px;
+  place-self: start end;
+  grid-row: 2;
+}
+
+.linha1 p {
+  margin: 0px;
+  grid-row: 3;
+  grid-column: 1;
+  place-self: start;
+  text-align: right;
+}
+
+.linha1 a {
+  margin-bottom: 20px;
+  grid-row: 4;
+  grid-column: 1;
+  place-self: start end;
+  background-color: #ee2211;
+  padding: 15px 35px;
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+}
+
+.image1 {
+  grid-row: 1 / -1;
+  grid-column: 2;
+  width: 100%;
+}
+
+.detalhe {
+  display: inline-block;
+  position: relative;
+  top: 30px;
+  left: 485px;
+  background-color: red;
+  height: 5px;
+  width: 70px;
+}
+
+.linha2 {
+  width: 1000px;
+  display: grid;
+  grid-template-columns: 1fr 480px;
+  margin: auto;
+  gap: 0px 40px;
+}
+
+.linha2 h1 {
+  color: #c6c6c6;
+  font-size: 64px;
+  text-transform: uppercase;
+  align-self: center;
+  text-align: end;
+}
+
+.descricao {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  padding: 50px 0px 30px 0px;
+}
+
+.propriedade1 {
+  display: grid;
+  grid-template-columns: 100px 1fr;
+  margin: 0px 0px 20px 0px;
+}
+
+h3 {
+  margin: 0px;
+}
+
+.icon1 {
+  align-self: center;
+  justify-self: center;
+}
+
+.propriedade1 p {
+  grid-column: 2;
+  margin-top: 10px;
+}
+
+footer {
+  position: relative;
+  padding: 5px;
+  background-color: #ffffff;
+  text-align: center;
+  margin-top: 100px;
+}
