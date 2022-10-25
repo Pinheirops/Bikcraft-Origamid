@@ -244,7 +244,6 @@ footer {
   }
   .sobre a {
     align-self: center;
-    padding: 15px 40px;
     font-size: 0.8rem;
     margin-left: 5px;
   }
@@ -269,11 +268,12 @@ footer {
   }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .sobre a {
     align-self: start;
-    padding: 15px 40px;
+    padding: 15px 60px;
     text-align: center;
+    text-overflow: ellipsis;
   }
 
   .sobre p {
